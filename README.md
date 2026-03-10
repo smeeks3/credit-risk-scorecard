@@ -47,4 +47,4 @@ jupyter notebook Credit_Scorecard_Notebook.ipynb
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-logistic%20regression-orange)
-![optbinning](https://img.shields.io/badge/optbinning-WoE%20%7C%20Scorecard-green)<img width="605" height="1022" alt="image" src="https://github.com/user-attachments/assets/cfb82ee2-ca48-490f-b7b0-5de4f38a9a60" />
+![optbinning](https://img.shields.io/badge/optbinning-WoE%20%7C%20Scorecard-green)
