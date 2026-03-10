@@ -18,8 +18,8 @@ This project builds a logistic regression-based scorecard scaled using PDO/odds 
 | Objective | Cutoff Score | Acceptance Rate | Default Rate | Est. Profit |
 |---|---|---|---|---|
 | Maximize Profit | 483 | 45% | 1.9% | $8.1M |
-| Maintain 75% Acceptance | 342 | 75% | 7.4% | -$27.9M |
 | Maintain 3.23% Default Rate | 428 | 58% | 3.3% | $2.6M |
+| Maintain 75% Acceptance | 342 | 75% | 7.4% | -$27.9M |
 
 ## Repository Structure
 
