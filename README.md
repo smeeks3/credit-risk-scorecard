@@ -4,7 +4,7 @@ A full credit scoring pipeline built in Python for a simulated retail bank, deve
 
 ## Overview
 
-This project builds a logistic regression-based scorecard scaled using PDO/odds calibration — anchored at **500 points (20:1 odds)** with **50 points per doubling of odds**. The full business write-up is available in `reports/Homework1_FA.pdf`.
+This project builds a logistic regression-based scorecard scaled using PDO/odds calibration — anchored at **500 points (20:1 odds)** with **50 points per doubling of odds**. The full business write-up is available in `reports/Final_Report.pdf`.
 
 ## Methodology
 
@@ -32,7 +32,7 @@ retail-credit-scorecard/
 │   ├── rejected_customers.csv
 │   └── weighting_rejects.xlsx
 └── reports/
-    ├── Final_Report.docx
+    ├── Final_Report.pdf
     └── Scorecard_RFP.pdf
 ```
 
